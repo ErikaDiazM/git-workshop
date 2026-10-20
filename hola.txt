@@ -1,2 +1,0 @@
-﻿Hola GitHub
-Estoy aprendiendo Git y GitHub
